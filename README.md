@@ -1,1 +1,3 @@
 This project focuses on analyzing the career performance of Diogo Jota, a Portuguese forward who plays for Liverpool FC and the Portugal National Team. The analysis explores his contributions across different clubs, goal-scoring efficiency, and impact in major competitions.
+
+Tools Used: Microsoft Power BI (data cleaning, visualization, dashboarding), Data sources: https://www.statmuse.com/fc/player/diogo-jota-1664
